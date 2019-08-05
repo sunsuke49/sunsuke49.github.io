@@ -1,0 +1,170 @@
+body{
+  margin: 0;
+  font-family:"游明朝",YuMincho,"ヒラギノ明朝 ProN W3",sans-serif;
+  background-color: black;
+}
+header{
+  height: 70px;
+  position: fixed;
+  top: 0;
+  z-index: 24;
+  width: 100%;
+  padding-left: 0;
+  background-color: white;
+  border-top: 5px solid #8B7343;
+  border-bottom: 5px solid #8B7343;
+}
+a:hover{
+  opacity: 0.6;
+}
+.logo{
+ font-size: 35px;
+ text-decoration: none;
+ color: black;
+ line-height: 70px;
+}
+.logo-image{
+  display: inline-block;
+  float: left;
+  padding-top: 10px;
+}
+.header-list{
+  display: inline-block;
+  float: right;
+}
+.header-list a{
+  text-decoration: none;
+  color: black;
+}
+.header-list li{
+  dispaly: inline-block;
+  float: right;
+  padding: 20px;
+  list-style: none;
+}
+.slideshow{
+  display: block;
+  margin-bottom: 40px;
+}
+.history{
+  position: relative;
+  background-color: #000000;
+  text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+.history img{
+  opacity: 0.7;
+}
+.history p{
+  position: absolute;
+  top:50%; left:50%;
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding: 0;
+  font-size: 15px;
+  color: white;
+  opacity: 0.7px;
+  text-shadow: 2px 2px 2px #000000;
+}
+.box1-image{
+  float: left;
+  margin-right: 50px;
+  width: 900px;
+}
+.box1-text{
+  background-image: url(img/ae68373bc37313afb1519d3fb5d5289e_s.jpg);
+  height: 500px;
+  padding-top: 60px;
+  padding-left: 50px;
+}
+.box1-text h2{
+  color: #B69F72;
+  font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+    border-bottom: 0.1px solid white;
+}
+.box1-text p{
+  color: white;
+  font-weight: normal;
+  padding-top: 40px;
+    font-size: 14px;
+    line-height: 28px;
+    padding-bottom: 40px;
+}
+.box2-image{
+  float: right;
+  margin-left: 50px;
+  width: 900px;
+}
+.box2-text{
+  background-image: url(img/ae68373bc37313afb1519d3fb5d5289e_s.jpg);
+  height: 500px;
+  padding-top: 60px;
+  padding-left: 50px;
+}
+.box2-text h2{
+  color: #B69F72;
+  font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+    border-bottom: 0.1px solid white;
+}
+.box2-text p{
+  color: white;
+  font-weight: normal;
+  padding-top: 40px;
+    font-size: 14px;
+    line-height: 28px;
+    padding-bottom: 40px;
+}
+.box3-image{
+  float: left;
+  margin-right: 50px;
+  width: 900px;
+}
+.box3-text{
+  background-image: url(img/ae68373bc37313afb1519d3fb5d5289e_s.jpg);
+  height: 500px;
+  padding-top: 60px;
+  padding-left: 50px;
+}
+.box3-text h2{
+  color: #B69F72;
+  font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+    border-bottom: 0.1px solid white;
+}
+.box3-text p{
+  color: white;
+  font-weight: normal;
+  padding-top: 40px;
+    font-size: 14px;
+    line-height: 28px;
+    padding-bottom: 40px;
+}
+.btn a{
+  display: inline-block;
+    width: 150px;
+    height: 40px;
+    margin-left:80px;
+    text-align: center;
+    border: 1px solid #B8AC78;
+    font-size: 14px;
+    line-height: 40px;
+    color: #c7be95;
+    font-weight: normal;
+    text-decoration: none;
+}
+footer p{
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
