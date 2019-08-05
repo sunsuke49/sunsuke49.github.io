@@ -168,3 +168,19 @@ footer p{
   text-align: center;
   font-size: 10px;
 }
+@media(max-width: 600px){
+  .logo{
+    font-size:20px;
+  }
+  .heder-list li{
+  font-size: 10px;
+  }
+  .box1-image{
+    width: 100%;
+  }
+  .box1-text{
+    background-image: url(img/ae68373bc37313afb1519d3fb5d5289e_s.jpg);
+    height: 500px;
+    width: 100%;
+  }
+}
