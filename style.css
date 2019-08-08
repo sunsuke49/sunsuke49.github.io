@@ -90,7 +90,7 @@ h1{
   background-repeat: no-repeat;
 }
 #home{
-  background-image: url(../images/coffee-983955_1920.jpg);
+  background-image: url(images/coffee-983955_1920.jpg);
   min-height: 100vh;
 }
 #home .page-title{
@@ -98,7 +98,7 @@ h1{
 }
 /* NEWS */
 #news{
-  background-image: url(../images/news-bg.jpg);
+  background-image: url(images/news-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -194,7 +194,7 @@ aside p{
 }
 /* MENU */
 #menu{
-  background-image: url(../images/menu-bg.jpg);
+  background-image: url(images/menu-bg.jpg);
   min-height: 100vh;
 }
 .menu-content{
@@ -226,7 +226,7 @@ aside p{
 }
 /* CONTACT */
 #contact{
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(images/contact-bg.jpg);
   min-height: 100vh;
 }
 /* FORM */
